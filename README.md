@@ -1,5 +1,4 @@
 # AI Reverse Engineering Agent — Implementation Guide
-> GenAI Workshop Project | Python Backend · Gradio UI
 
 ---
 
